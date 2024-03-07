@@ -1,6 +1,7 @@
 # covid19_xrays
 
-**Our model is already deployed here: http://covid.mlproducts.app/**
+**This project received an honourable mention in a Lumiata AI hackathon**
+https://www.youtube.com/watch?v=8EScR7l0gLQ&t=18:40
 
 
 # Covid X-ray prediction model
